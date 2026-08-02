@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+# embading
+sentence-transformers
+faiss-cpu
+chromadb
+# LLM
+langchain.groq
+python.dotenv
